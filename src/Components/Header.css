@@ -1,0 +1,30 @@
+.footballHeader {
+  background-color: #dee1e6 !important;
+  height: 100px;
+  justify-content: center;
+}
+
+.upHeader {
+  display: flex;
+}
+
+.title {
+  align-self: center;
+}
+
+.clock {
+  padding-top: 8px;
+  text-align: -webkit-left;
+  text-align: -moz-left;
+}
+
+.searchInput {
+  min-width: 15rem;
+  width: 100%;
+  height: 2.25rem;
+  border-radius: 8px;
+  border: none;
+}
+.searchIcon {
+  position: relative;
+}

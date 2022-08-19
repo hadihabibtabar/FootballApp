@@ -1,0 +1,21 @@
+.footballAccordion {
+    margin-top: 1rem;
+}
+
+.title {
+padding-left: 1rem;
+}
+
+.contentAccordion{
+    display: inline-flex;
+    padding-right: 1.75rem;
+}
+
+span{
+    font-size:14px
+}
+
+.title_image {
+    width: 20px;
+    height: 20px;
+}

@@ -1,0 +1,9 @@
+.body {
+  background-color: beige;
+  overflow-y: scroll;
+}
+.scrollBar {
+  margin-top: 2px !important;
+  height: 3rem;
+  background-color: #dee1e6 !important;
+}
